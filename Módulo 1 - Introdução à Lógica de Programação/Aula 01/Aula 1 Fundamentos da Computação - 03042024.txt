@@ -1,0 +1,15 @@
+Tarefas prazo de 2 semanas
+
+Livro: Estrutura de Dados e Algoritmos com JavaScript - Loiane
+
+Projeto final: algo funcional que resolve um problema
+com Node.js
+
+
+layout,flexbox,sass
+criar landing page
+
+
+Projeto final
+criar usuários, lista usuário, deletar usuário
+autentificação de usuários
