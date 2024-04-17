@@ -1,0 +1,7 @@
+//para instalar
+npm install prompt-sync
+
+
+//exemplo para rodar
+abrir um novo terminal e digitar:
+$ node aula06.js
