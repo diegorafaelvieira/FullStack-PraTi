@@ -6,4 +6,4 @@ npm install prompt-sync
 
 ## Rodar o exercício no terminal
 
-$ node nomeArquivo.js
+node nomeArquivo.js
